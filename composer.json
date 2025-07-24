@@ -1,0 +1,17 @@
+{
+    "name": "cherif/test",
+    "autoload": {
+        "psr-4": {
+            "Cherif\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "brahim1205",
+            "email": "sadiocheri11@gmail.com"
+        }
+    ],
+    "require": {},
+    "minimum-stability": "stable",
+    "type": "project"
+}
