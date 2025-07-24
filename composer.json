@@ -1,5 +1,5 @@
 {
-    "name": "test1/test",
+    "name": "testODC/test",
     "autoload": {
         "psr-4": {
             "Cherif\\Test\\": "src/"
